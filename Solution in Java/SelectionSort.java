@@ -24,7 +24,7 @@ public class SelectionSort
         }
         for(int e : arr)
         {
-            System.out.print(e +" ");
+            System.out.println(e +" ");
         }
     }
 }
